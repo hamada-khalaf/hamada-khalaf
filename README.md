@@ -1,5 +1,5 @@
 
-<img src="" width="50%" height="500"/>
+<img src="" width="600" height="100%"/>
 
 #  hamada khalaf
 ## front end developer 
