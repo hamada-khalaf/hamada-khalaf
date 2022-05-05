@@ -24,16 +24,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="https://i.ytimg.com/vi/Fm5AYgDj-OA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6c_Fns4ZEKj6xziE7_NNj0huI_Q" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-### Hi there 👋, hamada khalaf
-#### front end and web developer
-![front end and web developer](https://media-exp1.licdn.com/dms/image/C5603AQH9HRIZLAYMbA/profile-displayphoto-shrink_200_200/0/1643908867776?e=1657152000&v=beta&t=NHvsc76fv4rly1uRV4W0xgqBulOS4ZCu2kCjZ-LjaN4)
-
-I'm hamada from Eygpt, and I do content on front end and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, html, css,javascrpt, and in general.
-
-Skills:  REACT / JS / HTML / CSS/bootstrap
-
-- 🔭 I’m currently working on my own company 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/hamada-khalaf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hamada-khalaf-7090091b1//)  
 
