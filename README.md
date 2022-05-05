@@ -1,5 +1,6 @@
+# Hi there, i'm hamada khalaf 👋
 
-<img src="" width="600" height="100%"/>
+<img align="left" src="https://github.com/hamada-khalaf/hamada-khalaf/blob/main/WhatsApp%20Image%202022-04-29%20at%204.22.39%20AM.jpeg" width="500" />
 
 #  hamada khalaf
 ## front end developer 
