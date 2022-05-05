@@ -24,10 +24,4 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="https://i.ytimg.com/vi/Fm5AYgDj-OA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6c_Fns4ZEKj6xziE7_NNj0huI_Q" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/hamada-khalaf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/http://linkedin.com/in/hamada-khalaf-7090091b1/)  
-
- 
-
-  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hamada-khalaf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hamada-khalaf/)  
